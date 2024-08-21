@@ -1,0 +1,15 @@
+This is a simple e-reader that allows you to read a book from the command line.
+
+Starting the e-reader requires the command cabal run hcat -- filepath
+
+You need to use your filepath 
+
+- Hitting the spacebar allows you to move forwards.
+
+- b allows you to move backwards. 
+
+- q allows you to quit the program. 
+
+- ? allows you to call the help file. 
+
+Using q in while reading the help file, quits the help file and returns you to the page you were reading. 
